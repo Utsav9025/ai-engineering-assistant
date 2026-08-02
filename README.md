@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Engineering Assistant 🚀
 
 > An AI-powered software engineering assistant that understands your codebase, documentation, and development workflow to help developers build software faster.
@@ -239,6 +239,4 @@ Possible agents:
 # 🎯 Long-Term Goal
 
 Create an AI teammate that can understand, explain, and improve software projects, reducing the time developers spend searching for information and allowing them to focus on building software.
-=======
-# ai-engineering-assistant
->>>>>>> d6418531c7276c85c360e693e894e3342532ba43
+
